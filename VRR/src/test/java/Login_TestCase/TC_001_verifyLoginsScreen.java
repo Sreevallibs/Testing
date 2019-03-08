@@ -18,7 +18,7 @@ import com.test.automation.vrrLogistics.uiActions.Login_Page;
 public class TC_001_verifyLoginsScreen extends testBase{
 	
 	Login_Page obj;
-	int i=0;
+	int i=1;
 	
 	@BeforeTest
 	public void launch() throws IOException
